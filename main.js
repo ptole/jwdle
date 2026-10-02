@@ -41,12 +41,14 @@ document.addEventListener('DOMContentLoaded', () => {
     showImage(1);
 });
 
-function getDiff(b,a){
-    const abs = Math.abs((a-b));
-    const avg = (a+b)/2;
-    const diff = abs/avg;
-    console.log(diff);
-    return Math.floor(diff*100);
+function getDiff(guess,actual){
+    const bigger = Math.max(guess, actual);
+    const smaller = Math.min(guess,actual);
+    var result = bigger/smaller;
+    if(bigger == actual){
+        result *= -1;
+    }
+    return result;
 }
 
 function guess() {
@@ -76,13 +78,15 @@ function guess() {
 
     splashScreen.style.display = 'grid';
 
+    const answer = getDiff(guessedCost,actualCost);
+    const absAnswer = Math.abs(answer);
     
-    if (guessedCost === actualCost) {
-        answerDiv.innerHTML = `<h2>Correct!</h2><p>${name} ${actualCost}£</p>`;
-    } else if (guessedCost < actualCost) {
-        answerDiv.innerHTML = `<h2>${getDiff(guessedCost, actualCost)}% too low!</h2><p>${name} ${actualCost}£</p>`;
+    if (guessedCost == actualCost) {
+        answerDiv.innerHTML = `<h1>Correct!</h1><h2>${name}</h2><h2>${actualCost}£</h2>`;
+    } else if (answer < 0) {
+        answerDiv.innerHTML = `<h1>You guessed ${guessedCost}£</h1><h1>${absAnswer.toFixed(2)}x too low!</h1><h2>${name}</h2><h2>${actualCost}£</h2>`;
     } else {
-        answerDiv.innerHTML = `<h2>${getDiff(guessedCost, actualCost)}% too high!</h2><p>${name} ${actualCost}£</p>`;
+        answerDiv.innerHTML = `<h1>You guessed ${guessedCost}£</h1><h1>${absAnswer.toFixed(2)}x too high!</h1><h2>${name}</h2><h2>${actualCost}£</h2>`;
     }
         
 }

@@ -186,7 +186,7 @@ body {
     background-color: rgba(0, 0, 0, 0.9); /* Black background for splash */
     display: none; /* Hidden by default */
     z-index: 9999; /* Ensure it overlays everything */
-    
+    font-family: 'RobotoMono', monospace; /* Monospaced font for splash */
     place-items: center;
 }
 
