@@ -1,0 +1,1034 @@
+{
+    "heretics": [
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102259_ChaosSpaceMarinesRaptors02.jpg",
+            "cost": "40.00",
+            "name": "Warp Talons"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102195_TSCombatPatrol01.jpg",
+            "cost": "109.00",
+            "name": "Combat Patrol: Thousand Sons"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102207_ECCombatPatrol01.jpg",
+            "cost": "109.00",
+            "name": "Combat Patrol: Emperor's Children"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102196_WorldEatersCombatPatrol1.jpg",
+            "cost": "109.00",
+            "name": "Combat Patrol: World Eaters"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102194_DGCombatPatrol01.jpg",
+            "cost": "109.00",
+            "name": "Combat Patrol: Death Guard"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102190_CSMCP1.jpg",
+            "cost": "109.00",
+            "name": "Combat Patrol: Chaos Space Marines"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102180_CSMVashtorrTheArkifane01.jpg",
+            "cost": "67.00",
+            "name": "Vashtorr the Arkifane"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102184_WEKharnTheBetrayer01.jpg",
+            "cost": "29.00",
+            "name": "Khârn the Betrayer"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102155_WELordInvocatus02.jpg",
+            "cost": "44.00",
+            "name": "Lord on Juggernaut"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102154_WEEightbound2.jpg",
+            "cost": "41.50",
+            "name": "Eightbound"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102156_WEJakhals015.jpg",
+            "cost": "37.00",
+            "name": "Jakhals"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102155_WELordInvocatus01.jpg",
+            "cost": "44.00",
+            "name": "Lord Invocatus"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102154_ExhaltedEightbound2.jpg",
+            "cost": "41.50",
+            "name": "Exalted Eightbound"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102153_KhorneBerserkers1.jpg",
+            "cost": "44.00",
+            "name": "Khorne Berzerkers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102152_AngronDaemonPrimarch1.jpg",
+            "cost": "110.00",
+            "name": "Angron – Daemon Primarch of Khorne"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201130_S2DDaemonPrince01.jpg",
+            "cost": "57.00",
+            "name": "Daemon Prince"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915030_ChangecasterChariotUpdateALT.jpg",
+            "cost": "37.00",
+            "name": "Changecaster"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102147_AccursedCultistsLead.jpg",
+            "cost": "37.00",
+            "name": "Accursed Cultists"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102146_CSMDarkCommuneLead.jpg",
+            "cost": "37.00",
+            "name": "Dark Commune"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102144_CultistsLead.jpg",
+            "cost": "33.50",
+            "name": "Chaos Cultists"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102143_CSMWarpforgedLead.jpg",
+            "cost": "51.00",
+            "name": "Venomcrawler and Obliterators"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102141_ChosenLead.jpg",
+            "cost": "41.50",
+            "name": "Chosen"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102140_CSMPossessedLead.jpg",
+            "cost": "41.50",
+            "name": "Possessed"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102138_CSMWarpsmithLead.jpg",
+            "cost": "29.00",
+            "name": "Warpsmith"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108080_CKWardogHuntsmanLead.jpg",
+            "cost": "65.00",
+            "name": "War Dog Huntsmen"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108080_CKWardogExecutionerLead.jpg",
+            "cost": "65.00",
+            "name": "War Dog Executioners"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102139_CKWarDogStalkerLead.jpg",
+            "cost": "65.00",
+            "name": "War Dog Stalkers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102139_CKWarDogBrigandLead.jpg",
+            "cost": "65.00",
+            "name": "War Dog Brigands"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102139_CKWarDogKarnivoreLead.jpg",
+            "cost": "65.00",
+            "name": "War Dog Karnivores"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108016_KnightTyrant.jpg",
+            "cost": "125.00",
+            "name": "Knight Tyrant"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102122_TSInfernalMasterLead.jpg",
+            "cost": "29.00",
+            "name": "Infernal Master"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102150_LordFelthiusCohortLead.jpg",
+            "cost": "29.50",
+            "name": "Lord of Contagion and Blightlord Terminators"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915058_ChaosDaemonsBelakortheDarkMasterLead.jpg",
+            "cost": "109.00",
+            "name": "Be'lakor, the Dark Master"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915036_Daemonettes01.jpg",
+            "cost": "29.00",
+            "name": "Daemonettes of Slaanesh"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102006_DGIconBearer01.jpg",
+            "cost": "21.50",
+            "name": "Icon Bearer"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102007_DeathguardChampion01.jpg",
+            "cost": "21.50",
+            "name": "Plague Marine Champion"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102078_PlagueMarines01.jpg",
+            "cost": "39.50",
+            "name": "Plague Marines"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199015_40KDarkImperiumENG17.jpg",
+            "cost": "26.00",
+            "name": "Poxwalkers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102080_ETBDeathGuardBlighthauler01.jpg",
+            "cost": "18.75",
+            "name": "Myphitic Blight-hauler"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102076_DeathGuardTyphus01.jpg",
+            "cost": "29.50",
+            "name": "Typhus, Herald of the Plague God"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102003_DeathGuardScribbusWretch01.jpg",
+            "cost": "21.50",
+            "name": "Tallyman"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102075_Crawler01.jpg",
+            "cost": "52.00",
+            "name": "Plagueburst Crawler"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102004_Rotbone01.jpg",
+            "cost": "21.50",
+            "name": "Plague Surgeon"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102002_DeathGuardFoulBlightSpawn01.jpg",
+            "cost": "21.50",
+            "name": "Foul Blightspawn"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102077_BloatDrone01.jpg",
+            "cost": "39.50",
+            "name": "Foetid Bloat-drone"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102073_DeathshroudBodyguard01.jpg",
+            "cost": "41.50",
+            "name": "Deathshroud Terminators"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102072_DaemonPrimarchMortarion01.jpg",
+            "cost": "110.00",
+            "name": "Mortarion, Daemon Primarch of Nurgle"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102074_DeathGuardBlightLordTerminators01.jpg",
+            "cost": "41.50",
+            "name": "Blightlord Terminators"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102005_BiologusPutrifier01.jpg",
+            "cost": "21.50",
+            "name": "Biologus Putrifier"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102118_DGMiasmicMalignifierLead.jpg",
+            "cost": "44.00",
+            "name": "Miasmic Malignifier"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102117_DGLordofVirulenceLead.jpg",
+            "cost": "29.00",
+            "name": "Lord of Virulence"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102114_DGChosenofMortarionLead.jpg",
+            "cost": "46.50",
+            "name": "Malignant Plaguecaster, Noxious Blightbringer, and Plague Marine Champion"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102113_CSMFabiusBileLead.jpg",
+            "cost": "29.50",
+            "name": "Fabius Bile"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102015_CSMSorcerer01.jpg",
+            "cost": "21.50",
+            "name": "Chaos Space Marines Sorcerer"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915055_DoSSyllesskeVengefulAlliance01.jpg",
+            "cost": "39.50",
+            "name": "Syll'Esske: The Vengeful Allegiance"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915054_DoSContortedEpitome01.jpg",
+            "cost": "39.50",
+            "name": "The Contorted Epitome"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915053_DoSInfernalEnrapturess01.jpg",
+            "cost": "29.50",
+            "name": "Infernal Enrapturess"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915052_DoSFiends01.jpg",
+            "cost": "39.50",
+            "name": "Fiends"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99079915007_DoSMasque01.jpg",
+            "cost": "26.00",
+            "name": "The Masque"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102099_CSMDarkApostle01.jpg",
+            "cost": "29.00",
+            "name": "Dark Apostle"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102013_CSMMasterofExecutions01.jpg",
+            "cost": "21.50",
+            "name": "Master of Executions"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102089_CSMForgefiend02.jpg",
+            "cost": "57.00",
+            "name": "Maulerfiend"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102093_CSMTerminatorLord02.jpg",
+            "cost": "21.50",
+            "name": "Sorcerer Lord in Terminator Armour"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102100_CSMVexMachinator01.jpg",
+            "cost": "51.00",
+            "name": "Lord Discordant on Helstalker"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102097_CSMTerminators01.jpg",
+            "cost": "41.50",
+            "name": "Chaos Terminator Squad"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102096_CSMHavocs01.jpg",
+            "cost": "41.50",
+            "name": "Havocs"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915075_Skulltaker1.jpg",
+            "cost": "29.00",
+            "name": "Skulltaker"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915050_BoKHFleshhounds01.jpg",
+            "cost": "39.50",
+            "name": "Flesh Hounds"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201083_BoKHSkullAltar01.jpg",
+            "cost": "35.50",
+            "name": "Skull Altar"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102106_CITCSMNoctilithCrown01.jpg",
+            "cost": "44.00",
+            "name": "Noctilith Crown"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102101_CSMAbbaddon01.jpg",
+            "cost": "46.50",
+            "name": "Abaddon the Despoiler"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102093_CSMTerminatorLord01.jpg",
+            "cost": "21.50",
+            "name": "Chaos Lord in Terminator Armour"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102092_CSMRhino01.jpg",
+            "cost": "37.50",
+            "name": "Chaos Rhino"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102091_CSMBikers01.jpg",
+            "cost": "30.50",
+            "name": "Chaos Bikers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102090_HeldrakeBASEUPDATE1.jpg",
+            "cost": "57.00",
+            "name": "Heldrake"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102089_CSMForgefiend01.jpg",
+            "cost": "57.00",
+            "name": "Forgefiend"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99079915006_KaranakHoundofVengeance01.jpg",
+            "cost": "29.00",
+            "name": "Karanak"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99079915005_BloodmasterofKhorneBox01.jpg",
+            "cost": "21.50",
+            "name": "Bloodmaster, Herald of Khorne"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102088_HaarkenWorldclaimer01.jpg",
+            "cost": "29.00",
+            "name": "Haarken Worldclaimer, Herald of the Apocalypse"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915032_PinkHorrors01.jpg",
+            "cost": "29.50",
+            "name": "Pink Horrors"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102068_ThousandSonsTzangors08.jpg",
+            "cost": "10.00",
+            "name": "Tzaangor Upgrade Pack"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915063_NURMoNRotigusLead.jpg",
+            "cost": "109.00",
+            "name": "Rotigus"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915047_FeculentGnarlmaw01.jpg",
+            "cost": "35.50",
+            "name": "Feculent Gnarlmaw"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010299012_BlightWarENG03.jpg",
+            "cost": "41.50",
+            "name": "Horticulous Slimux"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915063_NURMoNGreatUncleanOneLead.jpg",
+            "cost": "109.00",
+            "name": "Great Unclean One"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915044_BeastofNurgle01.jpg",
+            "cost": "36.50",
+            "name": "Beast of Nurgle"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99079915004_SloppityBilepiper01.jpg",
+            "cost": "26.00",
+            "name": "Sloppity Bilepiper"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99079915002_Poxbringer01.jpg",
+            "cost": "21.50",
+            "name": "Poxbringer"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101177_TriumvirateofthePrimarch06.jpg",
+            "cost": "26.00",
+            "name": "Cypher"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915023_DaemonsofKhorneBloodLetters01.jpg",
+            "cost": "29.00",
+            "name": "Bloodletters"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915017_PlagueDrones01.jpg",
+            "cost": "41.50",
+            "name": "Plague Drones"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915037_Nurglings01.jpg",
+            "cost": "26.00",
+            "name": "Nurglings"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915008_Plaguebearers01.jpg",
+            "cost": "29.00",
+            "name": "Plaguebearers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915034_TzeentchChangeling01.jpg",
+            "cost": "26.00",
+            "name": "The Changeling"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915033_TzeentchScreamers01.jpg",
+            "cost": "26.00",
+            "name": "Screamers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915031_TzeentchFlamers01.jpg",
+            "cost": "26.00",
+            "name": "Flamers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915030_BurningChariot01.jpg",
+            "cost": "37.00",
+            "name": "Burning Chariot of Tzeentch"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915028_KairosFateweaver01.jpg",
+            "cost": "109.00",
+            "name": "Kairos Fateweaver"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201065_TzaangorWarriors01.jpg",
+            "cost": "37.00",
+            "name": "Tzaangors"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201064_TzaangorEnlightened01.jpg",
+            "cost": "39.50",
+            "name": "Tzaangor Enlightened"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070201021_TzaangorShamen01.jpg",
+            "cost": "26.00",
+            "name": "Tzaangor Shaman"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102067_ExhaltedSorcerers02.jpg",
+            "cost": "41.50",
+            "name": "Exalted Sorcerers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102066_ThousandSonsTerminators02.jpg",
+            "cost": "41.50",
+            "name": "Scarab Occult Terminators"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102065_MagnustheRed02.jpg",
+            "cost": "110.00",
+            "name": "Magnus the Red, Daemon Primarch of Tzeentch"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102064_Ahriman02.jpg",
+            "cost": "29.50",
+            "name": "Ahriman"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102063_RubicMarines02.jpg",
+            "cost": "41.50",
+            "name": "Rubric Marines"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915030_ExhaltedFlameronFoot01.jpg",
+            "cost": "37.00",
+            "name": "Exalted Flamer of Tzeentch"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915030_HeraldonBurningChariot01.jpg",
+            "cost": "37.00",
+            "name": "Fateskimmer, Herald of Tzeentch on Burning Chariot"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915028_LordofChange01.jpg",
+            "cost": "109.00",
+            "name": "Lord of Change"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201050_ChaosSpawn01.jpg",
+            "cost": "37.00",
+            "name": "Chaos Spawn"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560102230_ChaosKnight01.jpg",
+            "cost": "173.50",
+            "name": "Knight Despoiler"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915024_DaemonsofKhorneBloodThirster01.jpg",
+            "cost": "109.00",
+            "name": "Bloodthirster"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102043_CSMHelbrute01.jpg",
+            "cost": "41.50",
+            "name": "Helbrute"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915013_SoulgrinderNEW01.jpg",
+            "cost": "51.00",
+            "name": "Soul Grinder"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915005_SeekersLeadNEW.jpg",
+            "cost": "22.50",
+            "name": "Seekers of Slaanesh"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102041_LordofSkulls01.jpg",
+            "cost": "125.00",
+            "name": "Khorne Lord of Skulls"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102012_ChaosPredator01.jpg",
+            "cost": "49.50",
+            "name": "Chaos Predator"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102052_CSMLandRaiderRepack01.jpg",
+            "cost": "61.00",
+            "name": "Chaos Land Raider"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102258_ChaosSpaceMarinesFellgorBeastmen01.jpg",
+            "cost": "41.50",
+            "name": "Fellgor Beastmen"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102259_ChaosSpaceMarinesRaptors01.jpg",
+            "cost": "40.00",
+            "name": "Raptors"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102252_ChaosSpaceMarineWarbandBattleforce1.jpg",
+            "cost": "165.00",
+            "name": "Battleforce: Chaos Space Marines Warband"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102232_MURDERWING1.jpg",
+            "cost": "51.00",
+            "name": "Kill Team: Murderwing"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102230_CSMMutilators1.jpg",
+            "cost": "44.00",
+            "name": "Mutilators"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102229_CSMDefiler2.jpg",
+            "cost": "92.00",
+            "name": "Defiler"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102251_CSMKravekMorne1.jpg",
+            "cost": "30.00",
+            "name": "Kravek Morne"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102231_ChaosSpaceMarinesIronWarriorsUpgrades01.jpg",
+            "cost": "21.00",
+            "name": "Iron Warriors Upgrades"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102226_RedCorsairsUpgradesTransfers1.jpg",
+            "cost": "22.00",
+            "name": "Red Corsairs Upgrades and Transfers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102224_RedCorsairsRaiders2.jpg",
+            "cost": "40.00",
+            "name": "Red Corsairs Raiders"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102222_RedCorsairsReaveCaptain2.jpg",
+            "cost": "29.00",
+            "name": "Red Corsairs Reave-Captain"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102225_ChaosSpaceMarinesHuronBlackheartMastersoftheMaelstrom1.jpg",
+            "cost": "59.00",
+            "name": "Huron Blackheart and the Masters of the Maelstrom"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102220_CSMTraitorEnforcer1.jpg",
+            "cost": "35.50",
+            "name": "Traitor Enforcer"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102218_CSMLegionaries1.jpg",
+            "cost": "44.00",
+            "name": "Legionaries"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102219_CSMTraitorGuardsmen2.jpg",
+            "cost": "33.50",
+            "name": "Traitor Guardsmen Squad"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102197_ThousandSonsSekhetarRobotsVehicleSquad01.jpg",
+            "cost": "32.50",
+            "name": "Sekhetar Robots"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102199_ChaosSpaceMarineWorldEatersSlaughterbound1.jpg",
+            "cost": "29.00",
+            "name": "Slaughterbound"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102198_ChaosSpaceMarineDeathGuardLordofPoxes1.jpg",
+            "cost": "29.00",
+            "name": "Lord of Poxes"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201200_BOKFangsoftheBloodGodSpearhead01.jpg",
+            "cost": "95.00",
+            "name": "Spearhead: Blades of Khorne – Fangs of the Blood God"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108105_IKKnightQuestorisLEADDespoiler.jpg",
+            "cost": "120.00",
+            "name": "Knight Despoiler"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108105_IKKnightQuestorisLEADDefender.jpg",
+            "cost": "120.00",
+            "name": "Knight Questoris"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102191_CKKnightRuinator01.jpg",
+            "cost": "120.00",
+            "name": "Knight Ruinator"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102203_ECTormentors01.jpg",
+            "cost": "44.50",
+            "name": "Tormentors"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102204_ECNoiseMarines01.jpg",
+            "cost": "44.00",
+            "name": "Noise Marines"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102206_ECLordExultant01.jpg",
+            "cost": "29.00",
+            "name": "Lord Exultant"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102201_ECLuciusTheEternal01.jpg",
+            "cost": "29.50",
+            "name": "Lucius the Eternal"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102202_ECFlawlessBlades01.jpg",
+            "cost": "39.50",
+            "name": "Flawless Blades"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102200_ECFulgrim01.jpg",
+            "cost": "110.00",
+            "name": "Fulgrim – Daemon Primarch of Slaanesh"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102205_ECLordKakophonist01.jpg",
+            "cost": "27.00",
+            "name": "Lord Kakophonist"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102193_CSMLordJumpPack1.jpg",
+            "cost": "29.00",
+            "name": "Chaos Lord with Jump Pack"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102192_CSMLordPowerArmour1.jpg",
+            "cost": "29.00",
+            "name": "Chaos Space Marines – Chaos Lord"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102182_KTNemesisClaw1.jpg",
+            "cost": "49.00",
+            "name": "Kill Team: Nemesis Claw"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102028_CSMCultistFirebrand01.jpg",
+            "cost": "23.50",
+            "name": "Cultist Firebrand"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102016_MasterPossession1.jpg",
+            "cost": "26.00",
+            "name": "Master of Possession"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123008006_HHCerastusKnightAcheron01.jpg",
+            "cost": "134.00",
+            "name": "Cerastus Knight Acheron"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123008005_HHCerastusKnightCastigator01.jpg",
+            "cost": "134.00",
+            "name": "Cerastus Knight Castigator"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/60030102031_ENGChaosKnightsHBCodex1.jpg",
+            "cost": "39.50",
+            "name": "Codex: Chaos Knights"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/60030102033_EngTSCodex01.jpg",
+            "cost": "39.50",
+            "name": "Codex: Thousand Sons"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/60030102034_WorldEatersStdEdHBCodex1.jpg",
+            "cost": "39.50",
+            "name": "Codex: World Eaters"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/60030102032_EFGISDGCodex01.jpg",
+            "cost": "39.50",
+            "name": "Codex: Death Guard"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/60030102035_ENGFREGERITASPAEmperorsChildrenStdEdHBCodex.jpg",
+            "cost": "39.50",
+            "name": "Codex: Emperor's Children"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/60030102030_CSMCodexincLtdEdEURO.jpg",
+            "cost": "39.50",
+            "name": "Codex: Chaos Space Marines"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108213_MECKnightMoiraxwithVolkiteVeuglaireGygesSiegeClaw01.jpg",
+            "cost": "50.50",
+            "name": "Mechanicum Knight Moirax with Volkite Veuglaire and Gyges Siege Claw"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99563008218_WarlordTitanMoriQuakeCannonLead.jpg",
+            "cost": "123.00",
+            "name": "Warlord Titan Mori Quake Cannon"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108216_WTGLaserBlaster01.jpg",
+            "cost": "123.00",
+            "name": "Warlord Titan Macro-Gatling Blaster"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99550108215_KnightMoiraxGravitonPulsar01.jpg",
+            "cost": "18.50",
+            "name": "Mechanicum Knight Moirax Graviton Pulsar"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99550108212_KnightConversionBeamCannon01.jpg",
+            "cost": "18.50",
+            "name": "Mechanicum Knight Moirax Conversion Beam Cannon"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108211_MECKnightMoiraxwithLightningLocks01.jpg",
+            "cost": "50.50",
+            "name": "Mechanicum Knight Moirax with Lightning Locks"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108209_AcastusKnightAsterius01.jpg",
+            "cost": "450.50",
+            "name": "Acastus Knight Asterius"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108205_BattleTitanVolcanoCannon01.jpg",
+            "cost": "93.00",
+            "name": "Battle Titan Volcano Cannon"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108203_BattleTitanMeltaCannon01.jpg",
+            "cost": "93.00",
+            "name": "Battle Titan Melta Cannon"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108201_BattleTitanLaserBlaster01.jpg",
+            "cost": "93.00",
+            "name": "Battle Titan Laser Blaster"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108200_BattleTitanGatlingBlaster01.jpg",
+            "cost": "93.00",
+            "name": "Battle Titan Gatling Blaster"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108172_AcastusKnightPorphyrion01.jpg",
+            "cost": "485.00",
+            "name": "Acastus Knight Porphyrion"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108148_MarsPatternFist01.jpg",
+            "cost": "141.50",
+            "name": "Warlord Titan Arioch Power Claw"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108143_MarsPatternWarlordTitanApocalypseMissileLauncher01.jpg",
+            "cost": "148.50",
+            "name": "Mars Pattern Warlord Titan Apocalypse Missile Launchers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108146_MechanicumCerastusKnightAtrapos01.jpg",
+            "cost": "254.50",
+            "name": "Cerastus Knight Atrapos"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108140_MarsPatternWarlordTitanBody01.jpg",
+            "cost": "1,334.00",
+            "name": "Mars Pattern Warlord Titan Body"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108139_WarlordTitanLaserBlasters01.jpg",
+            "cost": "163.50",
+            "name": "Mars Pattern Warlord Titan Laser Blasters"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108138_WarlordTitanHead01.jpg",
+            "cost": "90.00",
+            "name": "Mars-Alpha Pattern Warlord Titan Head"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99560108137_TitanBelicosaVolcannoCannon01.jpg",
+            "cost": "123.00",
+            "name": "Mars Pattern Warlord Titan Belicosa Volcano Cannon"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108122_QuestorisKnightStyrix01.jpg",
+            "cost": "170.50",
+            "name": "Questoris Knight Styrix"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108120_QuestorisKnightMagaera01.jpg",
+            "cost": "170.50",
+            "name": "Questoris Knight Magaera"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108081_MarsWarhoundTurboLaser01.jpg",
+            "cost": "59.00",
+            "name": "Mars Pattern Warhound Titan Turbo Laser Destructor"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108080_MarsWarhoundInfernoCannon01.jpg",
+            "cost": "59.00",
+            "name": "Mars Pattern Warhound Titan Inferno Cannon"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108069_MarsPlasmaBlastgun01.jpg",
+            "cost": "59.00",
+            "name": "Mars Pattern Warhound Titan Plasma Blastgun"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108068_VulcanMegaBolterMarsAlpha01.jpg",
+            "cost": "59.00",
+            "name": "Mars Pattern Warhound Titan Vulcan Mega-bolter"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108067_WarhoundTitanMars01.jpg",
+            "cost": "473.50",
+            "name": "Mars Pattern Warhound Titan Body"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108066_ReaverMissileLauncherCarapaceMount01.jpg",
+            "cost": "90.00",
+            "name": "Reaver Titan Apocalypse Missile Launcher"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108065_ReaverTitanBody01.jpg",
+            "cost": "709.00",
+            "name": "Mars Pattern Reaver Titan Body"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590108063_ReaverTitanPowerFist01.jpg",
+            "cost": "104.00",
+            "name": "Reaver Titan Powerfist (Arm only)"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590102102_ChaosReaverApocalypseMissileLauncher01.jpg",
+            "cost": "90.00",
+            "name": "Chaos Reaver Titan Apocalypse Missile Launcher"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590102101_ChaosReaverPowerClaw01.jpg",
+            "cost": "104.00",
+            "name": "Chaos Reaver Titan Power Claw"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590102100_ChaosReaverTitanBody01.jpg",
+            "cost": "709.00",
+            "name": "Chaos Reaver Titan Body"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590102098_ChaosWarhoundPlasmaBlastgun01.jpg",
+            "cost": "60.00",
+            "name": "Chaos Warhound Titan Plasma Blastgun"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590102097_ChaosVulcanMegaBolter01.jpg",
+            "cost": "60.00",
+            "name": "Chaos Warhound Titan Vulcan Mega Bolter"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99590102096_ChaosWarhoundTitanBody01.jpg",
+            "cost": "473.50",
+            "name": "Chaos Warhound Scout Titan"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123008004_HHCerastusKnightLancer01.jpg",
+            "cost": "134.00",
+            "name": "Cerastus Knight Lancer"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915056_DoSKeeperofSecrets02.jpg",
+            "cost": "109.00",
+            "name": "Shalaxi Helbane"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915056_DoSKeeperofSecrets01.jpg",
+            "cost": "109.00",
+            "name": "Keeper of Secrets"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915029_BlueHorrors01.jpg",
+            "cost": "29.50",
+            "name": "Blue Horrors and Brimstone Horrors"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915025_DaemonsofKhorneSkullCannon01.jpg",
+            "cost": "29.50",
+            "name": "Skull Cannon"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915025_DaemonsofKhorneBloodThrone01.jpg",
+            "cost": "29.50",
+            "name": "Rendmaster, Herald of Khorne on Blood Throne"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915022_DaemonsofKhorneBloodCrushers01.jpg",
+            "cost": "67.50",
+            "name": "Bloodcrushers"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915071_Skarbrand1.jpg",
+            "cost": "109.00",
+            "name": "Skarbrand"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201021_MutilithVortexBeast01.jpg",
+            "cost": "61.00",
+            "name": "Mutalith Vortex Beast"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102025_ChaosVindicatorNEW_01.jpg",
+            "cost": "49.50",
+            "name": "Chaos Vindicator"
+        },
+        {
+            "src": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102208_KillTeamGoremongers01.jpg",
+            "cost": "44.00",
+            "name": "Kill Team: Goremongers"
+        }
+    ]
+}

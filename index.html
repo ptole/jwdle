@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>James Workshopdle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="splash-screen">
+        <div class="container">
+            <div id="answer"></div>
+            <button id="closeScreenBtn">Close</button>
+        </div>
+    </div>
+    <div class="container">
+        <div class="tabs">
+            <button id="tab1" class="tab-button">Loyalist</button>
+            <button id="tab2" class="tab-button">Heretic</button>
+            <button id="tab3" class="tab-button">Xenos</button>
+        </div>
+
+        <div class="content">
+            <div class="image-container">
+                <img id="displayImage"
+                    src=""
+                    alt="Displayed Image">
+            </div>
+            <div class="input-group">
+                <label for="numberInput" class="input-label">Cost:</label>
+                <input type="text" id="numberInput" name="numberInput" class="number-input">
+                <label for="numberInput" class="input-label">£</label>
+            </div>
+            <button class="guess-button">Guess</button>
+        </div>
+    </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+
+</html>
