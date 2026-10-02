@@ -5,8 +5,12 @@ import xenos from "./xenos.json" with { type: "json" };
 const splashScreen = document.getElementById('splash-screen');
 const answerDiv = document.getElementById('answer');
 const questions = [];
+var currentQ = 1;
+var score = [];
 
 function generateQuestions() {
+    questions.length = 0; // Clear previous questions
+    document.querySelector("#closeScreenBtn").textContent = "Next";
     let rand = Math.floor(Math.random() * loyalists.loyalists.length);
     questions.push(loyalists.loyalists[rand]);
 
@@ -38,14 +42,14 @@ function showImage(index) {
 // Initialize with the first image on load
 document.addEventListener('DOMContentLoaded', () => {
     generateQuestions();
-    showImage(1);
+    showImage(currentQ);
 });
 
-function getDiff(guess,actual){
+function getDiff(guess, actual) {
     const bigger = Math.max(guess, actual);
-    const smaller = Math.min(guess,actual);
-    var result = bigger/smaller;
-    if(bigger == actual){
+    const smaller = Math.min(guess, actual);
+    var result = bigger / smaller;
+    if (bigger == actual) {
         result *= -1;
     }
     return result;
@@ -78,9 +82,13 @@ function guess() {
 
     splashScreen.style.display = 'grid';
 
-    const answer = getDiff(guessedCost,actualCost);
+    const answer = getDiff(guessedCost, actualCost);
     const absAnswer = Math.abs(answer);
-    
+    score.push(absAnswer);
+
+    costInput.value = ''; // Clear the input field after guessing
+
+
     if (guessedCost == actualCost) {
         answerDiv.innerHTML = `<h1>Correct!</h1><h2>${name}</h2><h2>${actualCost}£</h2>`;
     } else if (answer < 0) {
@@ -88,14 +96,34 @@ function guess() {
     } else {
         answerDiv.innerHTML = `<h1>You guessed ${guessedCost}£</h1><h1>${absAnswer.toFixed(2)}x too high!</h1><h2>${name}</h2><h2>${actualCost}£</h2>`;
     }
-        
+
+    if (currentQ == 3) {
+        document.querySelector("#closeScreenBtn").textContent = "Show score";
+    }
+
+}
+
+function showScore() {
+    const totalScore = (score[0] + score[1] + score[2])/3;
+    document.querySelector("#closeScreenBtn").textContent = "Play again";
+    answerDiv.innerHTML = `<h1>Game Over</h1><h1>Your score:</h1><h1>${totalScore.toFixed(2)}x</h1>`;
+    currentQ = 4;
 }
 
 
-document.querySelector("#tab1").addEventListener("click", () => showImage(1));
-document.querySelector("#tab2").addEventListener("click", () => showImage(2));
-document.querySelector("#tab3").addEventListener("click", () => showImage(3));
 document.querySelector(".guess-button").addEventListener("click", guess);
 document.querySelector("#closeScreenBtn").addEventListener("click", () => {
-    splashScreen.style.display = 'none';
+    if (currentQ < 3) {
+        splashScreen.style.display = 'none';
+        currentQ++;
+        showImage(currentQ);
+    } else if (currentQ == 3) {
+        showScore();
+    } else if (currentQ == 4) {
+        score.length = 0; // Reset score for new game
+        splashScreen.style.display = 'none';
+        generateQuestions();
+        currentQ = 1;
+        showImage(currentQ);
+    }
 });
