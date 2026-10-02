@@ -84,7 +84,7 @@ function guess() {
 
     const answer = getDiff(guessedCost, actualCost);
     const absAnswer = Math.abs(answer);
-    score.push(absAnswer);
+    score.push(answer);
 
     costInput.value = ''; // Clear the input field after guessing
 
@@ -104,9 +104,13 @@ function guess() {
 }
 
 function showScore() {
-    const totalScore = (score[0] + score[1] + score[2])/3;
+    const totalScore = Math.pow(Math.abs(score[0]) * Math.abs(score[1]) * Math.abs(score[2]),1/3);
+    //format scores
+    const a1 = score[0] < 0 ? `<${Math.abs(score[0]).toFixed(2)}x` : `>${Math.abs(score[0]).toFixed(2)}x`;
+    const a2 = score[1] < 0 ? `<${Math.abs(score[1]).toFixed(2)}x` : `>${Math.abs(score[1]).toFixed(2)}x`;
+    const a3 = score[2] < 0 ? `<${Math.abs(score[2]).toFixed(2)}x` : `>${Math.abs(score[2]).toFixed(2)}x`;   
     document.querySelector("#closeScreenBtn").textContent = "Play again";
-    answerDiv.innerHTML = `<h1>Game Over</h1><h1>Your score:</h1><h1>${totalScore.toFixed(2)}x</h1>`;
+    answerDiv.innerHTML = `<h1>Game Over</h1><h1>Your guesses:</h1><h2>${a1}, ${a2}, ${a3}</h2><h1>Your total accuracy:</h1><h1>${totalScore.toFixed(2)}x</h1>`;
     currentQ = 4;
 }
 
